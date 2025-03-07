@@ -8,7 +8,7 @@ These are programs are based on Thermodynamics' problems developed in Matlab
 > A fluid system undergoes a non-flow frictionless process following the pressure-volume relation as p = (5/V) + 1.5 where p is in bar and V is in cubic meter. During the process the volume changes from 0.15 cubic metres to 0.05 cubic metres and the system rejects 45 KJ of heat, Determine the change in internal energy and change in enthalpy.
 > 
 > ### Program script
-> **[Change_in_Internal_Energy_and_Enthalpy](change_in_IE_and_E.m)**
+> **[Change in Internal Energy and Enthalpy](change_in_IE_and_E.m)**
 
 
 > ## Efficiency of Proposed Engine
@@ -17,7 +17,7 @@ These are programs are based on Thermodynamics' problems developed in Matlab
 > An inventor proposes an engine that operates between the 27 degree Celsius warm surface layer of the ocean and a 10 degree Celsius layer a few meters down. The inventor claims that the engine produces 100 kW by pumping 20 Kg/s of seawater. Is this possible?
 >
 > ### Program script
-> **[Efficiency_of_proposed_engine](efficiency_of_proposed_engine.m)**
+> **[Efficiency of proposed_engine](efficiency_of_proposed_engine.m)**
 
 
 > ## Efficiency of Steam Power Plant
